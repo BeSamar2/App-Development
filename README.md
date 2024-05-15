@@ -28,11 +28,12 @@ To run the Simple Calculator app locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/BeSamar2/App-Developement-projects.git
+   git clone https://github.com/BeSamar2/App-Development.git
+
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd App-Development-projects/simple-calculator-app
+   cd App-Development
    ```
 3. **Open the project in Android Studio:**
    - Open Android Studio.
